@@ -1,0 +1,14 @@
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\bin\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.exe
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\bin\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.deps.json
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\bin\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.runtimeconfig.json
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\bin\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.dll
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\bin\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.pdb
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.AssemblyInfoInputs.cache
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.AssemblyInfo.cs
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.dll
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\refint\ONENUMBER_SERYY_MARK_ИП1-22.cs.dll
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.pdb
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ONENUMBER_SERYY_MARK_ИП1-22.cs.genruntimeconfig.cache
+C:\Users\Class_Student\source\repos\ONENUMBER_SERYY_MARK_ИП1-22.cs\ONENUMBER_SERYY_MARK_ИП1-22.cs\obj\Debug\net8.0\ref\ONENUMBER_SERYY_MARK_ИП1-22.cs.dll

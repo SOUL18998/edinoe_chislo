@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ONENUMBER_SERYY_MARK_ИП1-22.cs/1.0.0": {
+        "runtime": {
+          "ONENUMBER_SERYY_MARK_ИП1-22.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ONENUMBER_SERYY_MARK_ИП1-22.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
